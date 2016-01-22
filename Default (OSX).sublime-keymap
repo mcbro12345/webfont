@@ -1,5 +1,5 @@
 [  
     {   
-        "keys": ["ctrl+alt+f"], "command": "webfont"   
+        "keys": ["ctrl+alt+q"], "command": "webfont"   
     }  
 ]  
